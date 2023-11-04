@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rana-rayhan/books/static/css/main.7400b85a.css",
+    "main.js": "/rana-rayhan/books/static/js/main.202e3809.js",
+    "static/js/787.5ef83590.chunk.js": "/rana-rayhan/books/static/js/787.5ef83590.chunk.js",
+    "index.html": "/rana-rayhan/books/index.html",
+    "main.7400b85a.css.map": "/rana-rayhan/books/static/css/main.7400b85a.css.map",
+    "main.202e3809.js.map": "/rana-rayhan/books/static/js/main.202e3809.js.map",
+    "787.5ef83590.chunk.js.map": "/rana-rayhan/books/static/js/787.5ef83590.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7400b85a.css",
+    "static/js/main.202e3809.js"
+  ]
+}
